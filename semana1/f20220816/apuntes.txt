@@ -1,3 +1,16 @@
 Repositorio curso: 
 
 https://github.com/stgoneira/desarrollo-frontend
+
+El archivo index es el primero que se cargara en el despliegue de la página.
+
+<!DOCTYPE html>
+
+Nos indica que tipo de documento html estamos utilizando.
+
+ctrl+u 
+
+Nos muestra el codigo fuente de la página
+
+Validador html
+https://validator.w3.org/
