@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML = "Parrafo agregado desde el archivo script.js";

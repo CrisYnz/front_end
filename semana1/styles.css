@@ -1,0 +1,6 @@
+#tituloBienvenida, #demo{
+    color: rgb(96, 6, 83);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
