@@ -1,0 +1,13 @@
+- Trabajaremos con las herramientas de desarrollo del browser.
+
+- Profundizaremos en  etiqueta meta, link, a, header, footer, nav, main, img, strong.
+
+- Definiremos proyecto a desarrollar duante el curso.
+
+- Reconocer las rutas absolutas y relativas.
+
+- trabajaremos un ejemplo en base a https://www.pkotler.org/bio
+
+Ruta relativa, el nombre directo del archivo
+
+Ruta Absoluta, el href desde una URL
