@@ -1,0 +1,20 @@
+/* 1. Selectores por etiqueta*/
+header {
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: #CCbb99;
+}
+
+/* 2. Selectores por clase*/
+.enlace-redSocial {
+    color: yellow;
+}
+
+/* 3. Selectores por id*/
+
+#nombreId{
+    color: aqua;
+}
