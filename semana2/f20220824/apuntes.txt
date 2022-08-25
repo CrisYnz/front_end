@@ -1,0 +1,9 @@
+Atributos Form
+
+El atributo method nos indica como queremos porcesar el formulario, puede ser con get y post (se muestran en la url o se ocultan respectivamente).
+
+Existe otro atributo llamado action, que nos dice lo quien va a procesar los daros del formulario
+
+DOMContentLoader info
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event
